@@ -164,9 +164,9 @@ return [
         /*
          * Package Service Providers...
          */
-        Maatwebsite\Excel\ExcelServiceProvider::class,
+
         RealRashid\SweetAlert\SweetAlertServiceProvider::class,
-        Barryvdh\DomPDF\ServiceProvider::class,
+
         /*
          * Application Service Providers...
          */
